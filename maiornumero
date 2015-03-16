@@ -1,0 +1,16 @@
+<script src="@Url.Content("~/Scripts/js/jquery.tipsy.js")"></script>
+    <script src="@Url.Content("~/Scripts/js/geral.js")"></script>
+    <script src="@Url.Content("~/Scripts/js/menu.js")"></script>
+
+    <script src="@Url.Content("~/Scripts/jquery.mousewheel.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery.jscrollpane.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/js/jquery.tipsy.js")"></script>
+  
+
+    <script src="@Url.Content("~/Scripts/ADNGeral.js")"></script>
+    <script src="@Url.Content("~/Scripts/ADNValidacao.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery.slimscroll.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/ViewJS.js")"></script>
+    <script src="~/Scripts/ViewJS/@(nomepadrao).js"></script>
+    <script src="~/Scripts/ViewJS/Historico.js"></script>
+
